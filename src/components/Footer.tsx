@@ -29,7 +29,7 @@ function Footer() {
               </div>
               <div className="flex flex-row justify-start items-center">
                 <FaPhone />
-                <a href="tel:+90 544 654 34 08 " className="ml-3">+90 544 654 34 08</a>
+                <a href="tel:+90 543 940 06 46 " className="ml-3">+90 543 940 06 46</a>
               </div>
 
             </div>
@@ -38,7 +38,7 @@ function Footer() {
             <h3 className="text-lg  text-[#001F3F] mb-4 font-semibold">Katalog</h3>
             <div className="flex flex-col justify-center text-gray-800 text-m">
               <a href="#" key={`kablo`} className="font-semibold">Kablo</a>
-              <a href="#" key={`elbiseler`} className="font-semibold">Elbiseler</a>
+              <a href="#" key={`elbiseler`} className="font-semibold">İş Güvenliği Elbiseleri</a>
             </div>
           </nav>
           <nav>
